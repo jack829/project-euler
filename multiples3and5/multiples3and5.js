@@ -8,7 +8,7 @@ add all multiples of 3 and 5 that are less than 1000
 
 */
 
-// first go
+// 
 var addMultiplesOf3and5 = function() {
   var result = 0;
   for (var i = 0; i <=1000; i++) {
@@ -18,3 +18,5 @@ var addMultiplesOf3and5 = function() {
   }
   return result;
 }
+
+//addMultiplesOf3and5() //=====> SOLUTION: 234168
